@@ -11,5 +11,6 @@
 
 - [Make](make.md)
 - [Java](java.md)
+- [Python](python.md)
 
 ## Frequently asked questions
