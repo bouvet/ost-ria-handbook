@@ -10,5 +10,6 @@
 ## Knowledge base
 
 - [Make](make.md)
+- [Java](java.md)
 
 ## Frequently asked questions
