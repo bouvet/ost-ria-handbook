@@ -492,5 +492,7 @@ setup(
 [pep-0008]: https://www.python.org/dev/peps/pep-0008/
 [pep-0020]: https://www.python.org/dev/peps/pep-0020/
 [pep-0257]: https://www.python.org/dev/peps/pep-0257/
+[pyenv-virtualenv]: https://github.com/pyenv/pyenv-virtualenv
+[pyenv]: https://github.com/pyenv/pyenv
 [pytest]: https://docs.pytest.org/en/latest/
 [setuptools]: https://setuptools.readthedocs.io/en/latest/setuptools.html
