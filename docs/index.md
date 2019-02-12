@@ -12,5 +12,6 @@
 - [Make](make.md)
 - [Java](java.md)
 - [Python](python.md)
+- [Trunk Based Development](https://trunkbaseddevelopment.com/)
 
 ## Frequently asked questions
