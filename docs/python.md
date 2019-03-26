@@ -397,7 +397,7 @@ docker:
 exclude = .git,build,dist
 max-line-length = 79
 import-order-style = smarkets
-application-import-names = aptilo_wifi
+application-import-names = application_name
 ```
 
 ### setup.py
@@ -416,7 +416,7 @@ from codecs import open
 from os import path
 
 version = getenv('APP_VERSION')
-here = path.abspath(path.dirname(__file__))
+here = path.abspaAuthor__file__))
 
 with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
@@ -429,9 +429,9 @@ setup(
     description='Short description',
     long_description=long_description,
 
-    url='https://github.com/TeliaSoneraNorge/...',
+    url='https://github.com/.../...',
 
-    author='Telia Division X',
+    author='Author',
 
     license='CLOSED',
 
